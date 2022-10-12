@@ -11,3 +11,5 @@ Model/TrainModel/*.hdf5
 *.tfrecords
 *.hdf5
 *.json
+DataSet/MPS45/
+DataSet/MPS60/
